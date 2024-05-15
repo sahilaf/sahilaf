@@ -1,6 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/4a/fc/9b/4afc9b072b54a7e23b750bccf5d941cc.gif)
 <h1 align="center">Hi 👋, I'm Sahil al farib</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c2/34/ba/c234babb3445ee509569b656ada08cef.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilaf&label=Profile%20views&color=0e75b6&style=flat" alt="sahilaf" /> </p>

@@ -1,24 +1,133 @@
-![MasterHead](https://i.pinimg.com/originals/4a/fc/9b/4afc9b072b54a7e23b750bccf5d941cc.gif)
-<h1 align="center">Hi 👋, I'm Sahil al farib</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/c2/34/ba/c234babb3445ee509569b656ada08cef.gif">
+<div align="center" style="width: 100%;">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sahil%20Al%20Farib&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=⚡%20AI%20Engineer%20%7C%20Machine%20Learning%20and%20Applied%20Research%20%7C%20Computer%20Vision%20and%20NLP&descAlignY=58&descColor=a78bfa&descSize=18&width=1000"
+    width="100%"
+  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilaf&label=Profile%20views&color=0e75b6&style=flat" alt="sahilaf" /> </p>
+---
 
-- 📫 How to reach me **sahilfarib320@gmail.com**
+## 🧠 Research Focus
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/sahil.alfarib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahil al farib" height="30" width="40" /></a>
-<a href="https://instagram.com/sahil_al_farib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahil_al_farib" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sahilfarib007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sahilfarib007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sahilfarib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sahilfarib" height="30" width="40" /></a>
+I work at the intersection of **Machine Learning, AI Systems, and Applied Research**, focusing on building models and systems that generalize to real-world constraints.
+
+- 🤖 **Machine Learning & Deep Learning**
+- 🧠 **Computer Vision & Natural Language Processing**
+- 🔗 **Retrieval-Augmented Generation (RAG) Systems**
+- 📊 **Knowledge Graphs & Structured Reasoning**
+- ⚛️ **Quantum Machine Learning & Noise Modeling**
+
+---
+
+## 📌 About Me
+
+- 🎓 Computer Science Engineering student  
+- 🧪 Published researcher in **Quantum Machine Learning / Noise Modeling (NISQ systems)**  
+- 🏗️ Build full-stack AI systems that combine **LLMs + retrieval + structured reasoning**  
+- 🧠 Strong foundation in algorithms and competitive programming  
+- 📚 Interested in bridging **AI research ↔ production systems**
+
+---
+
+## 🚀 Selected Work
+
+### ⚛️ Quantum Noise Modeling Research
+- Few-shot cross-device transfer for quantum hardware noise prediction  
+- Focus: generalization across real quantum devices under limited data  
+- Domain: NISQ-era quantum systems + ML adaptation
+
+---
+
+### 💬 RAG-Based AI Systems
+- Built retrieval-augmented QA systems using LLM pipelines  
+- Integrated vector search + context-aware generation  
+- Focus on reducing hallucination and improving factual grounding
+
+---
+
+### 🧠 Knowledge Graph Research
+- Structured reasoning over multi-source information  
+- Graph construction for semantic and cross-domain understanding  
+- Exploration of multi-step inference over unstructured data
+
+---
+
+### 🛒 Full-Stack AI Applications
+- End-to-end systems combining React, Node.js, and AI services  
+- Real-world deployment of intelligent applications
+
+---
+
+## 🧰 Technical Skills
+
+**Programming**
+
+`Python` `C++` `C` `Java` `Go` `TypeScript` `JavaScript`
+
+**AI / ML**
+
+`PyTorch` `TensorFlow` `Deep Learning`  
+`Computer Vision` `NLP` `Transformers`  
+`LangChain` `RAG Systems` `Vector Databases`  
+`Model Fine-tuning` `Feature Engineering`
+
+**Research Areas**
+
+`Quantum Machine Learning` `Noise Modeling`  
+`Transfer Learning` `Scientific Computing`
+
+**Systems**
+
+`REST APIs` `Node.js` `MongoDB` `React.js`
+
+**Tools**
+
+`Git` `Linux` `Jupyter` `Google Colab` `Docker (basic)`
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sahilaf&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilaf&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilaf&show_icons=true&locale=en&layout=compact" alt="sahilaf" /></p>
+## 🔗 Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilaf&show_icons=true&locale=en" alt="sahilaf" /></p>
+<p align="center">
 
+<a href="https://www.linkedin.com/in/sahilalfarib/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/sahil.alfarib/">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/sahil_al_farib">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:sahilfarib320@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🎯 Objective
+
+Building **scalable, research-driven AI systems** that connect:
+> theoretical machine learning → practical intelligent systems → real-world deployment
+
+---
+
+<div align="center">
+
+*"The goal is not to build models, but to build systems that think, retrieve, and reason."*
+
+</div>

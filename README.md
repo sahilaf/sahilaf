@@ -29,35 +29,6 @@ I work at the intersection of **Machine Learning, AI Systems, and Applied Resear
 
 ---
 
-## 🚀 Selected Work
-
-### ⚛️ Quantum Noise Modeling Research
-- Few-shot cross-device transfer for quantum hardware noise prediction  
-- Focus: generalization across real quantum devices under limited data  
-- Domain: NISQ-era quantum systems + ML adaptation
-
----
-
-### 💬 RAG-Based AI Systems
-- Built retrieval-augmented QA systems using LLM pipelines  
-- Integrated vector search + context-aware generation  
-- Focus on reducing hallucination and improving factual grounding
-
----
-
-### 🧠 Knowledge Graph Research
-- Structured reasoning over multi-source information  
-- Graph construction for semantic and cross-domain understanding  
-- Exploration of multi-step inference over unstructured data
-
----
-
-### 🛒 Full-Stack AI Applications
-- End-to-end systems combining React, Node.js, and AI services  
-- Real-world deployment of intelligent applications
-
----
-
 ## 🧰 Technical Skills
 
 **Programming**

@@ -1,11 +1,12 @@
-<div align="center" style="width: 100%;">
+<div align="center" style="width: 100%; background-color:#0d1117;">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sahil%20Al%20Farib&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=⚡%20AI%20Engineer%20%7C%20Machine%20Learning%20and%20Applied%20Research%20%7C%20Computer%20Vision%20and%20NLP&descAlignY=58&descColor=a78bfa&descSize=18&width=1000"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=180&section=header&text=Sahil%20Al%20Farib&fontSize=52&fontColor=00ff9f&animation=fadeIn&fontAlignY=36&desc=⚡%20AI%20Engineer%20%7C%20Machine%20Learning%20and%20Applied%20Research%20%7C%20Computer%20Vision%20and%20NLP&descAlignY=58&descColor=00ff9f&descSize=18&width=1000"
     width="100%"
   />
 </div>
 
 ---
+
 
 ## 🧠 Research Focus
 

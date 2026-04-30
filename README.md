@@ -123,7 +123,7 @@ $ cat /etc/tech-stack.conf
 > Building **scalable, research-driven AI systems** that connect:
 
 ```
-        [ theoretical machine learning ] ──⟶ [ practical intelligent systems ] ──⟶ [ real-world deployment ]
+[ theoretical machine learning ] ──⟶ [ practical intelligent systems ] ──⟶ [ real-world deployment ]
 ```
 
 ---

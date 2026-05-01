@@ -15,8 +15,8 @@
 |---|---|
 | 🤖 Machine Learning & Deep Learning | `[ACTIVE]` |
 | 🧠 Computer Vision & Natural Language Processing | `[ACTIVE]` |
-| 🔗 Retrieval-Augmented Generation (RAG) Systems | `[ACTIVE]` |
-| 📊 Knowledge Graphs & Structured Reasoning | `[ACTIVE]` |
+| 🔗 Scalable Training, Fine-Tuning & Optimization | `[ACTIVE]` |
+| 📊 Structured Reasoning & Representation Learning | `[ACTIVE]` |
 | ⚛️ Quantum Machine Learning & Noise Modeling | `[ACTIVE]` |
 
 ---
